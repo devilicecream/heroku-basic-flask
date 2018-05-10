@@ -1,13 +1,8 @@
+Una guida su come impostare il tuo account su Heroku e configurare e deployare una semplice web application (gratuitamente) su Heroku Cloud.
 
+Questa guida contiene molti passi, ma tutto il necessario (codice incluso) per avere un'app funzionante su Heroku è in questo repo. Puoi semplicemente copiarlo e deployarlo sul tuo account Heroku.
 
-### tl;dr 
-
-A walkthrough on how to get set up with Heroku and its toolkit and then how to deploy a simple web application (for free) on the Heroku Cloud. 
-
-To see a more advanced Flask app that uses USGS data and Google APIs, checkout this repo: [datademofun/heroku-flask-quakes-lesssimple](https://github.com/datademofun/heroku-flask-quakes-lesssimple)
-
-This is a long README of the steps, but all the actual code and configuration for this app is included in this repo. You can copy and deploy it through your own Heroku account.
-
+Un grazie a **datademofun** per la guida originale da cui e stata tradotta questa guida.
 
 # Deploying a simple Flask app to the cloud via Heroku
 
